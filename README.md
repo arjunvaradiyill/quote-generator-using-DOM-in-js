@@ -1,7 +1,3 @@
-Sure! Here's a simple and clean `README.md` file for your **JavaScript Quote Generator** project:
-
----
-
 ## 📜 JavaScript Quote Generator
 
 This is a simple JavaScript project that displays a random motivational quote each time you click the "New Quote" button. It's a great beginner project to understand **DOM manipulation**, **arrays**, and **event handling** in JavaScript.
